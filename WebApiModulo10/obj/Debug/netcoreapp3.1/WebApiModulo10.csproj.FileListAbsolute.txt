@@ -1,0 +1,116 @@
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\appsettings.json
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\WebApiModulo10.exe
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\WebApiModulo10.deps.json
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\WebApiModulo10.runtimeconfig.json
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\WebApiModulo10.runtimeconfig.dev.json
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\WebApiModulo10.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\WebApiModulo10.pdb
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.csprojAssemblyReference.cache
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.AssemblyInfoInputs.cache
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.AssemblyInfo.cs
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.csproj.CoreCompileInputs.cache
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.MvcApplicationPartsAssemblyInfo.cache
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\staticwebassets\WebApiModulo10.StaticWebAssets.Manifest.cache
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\staticwebassets\WebApiModulo10.StaticWebAssets.xml
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiModulo10.styles.css
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.RazorTargetAssemblyInfo.cache
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.csproj.CopyComplete
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.dll
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.pdb
+C:\JOSE\NET\Udemy\CursoRESTfulAPIsASPNETCore\ASP.NET Core 3.1\Modulo 10 - Despliegues\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.genruntimeconfig.cache
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\appsettings.json
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\WebApiModulo10.exe
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\WebApiModulo10.deps.json
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\WebApiModulo10.runtimeconfig.json
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\WebApiModulo10.runtimeconfig.dev.json
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\WebApiModulo10.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\WebApiModulo10.pdb
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.csprojAssemblyReference.cache
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.AssemblyInfoInputs.cache
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.AssemblyInfo.cs
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.csproj.CoreCompileInputs.cache
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.MvcApplicationPartsAssemblyInfo.cache
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\staticwebassets\WebApiModulo10.StaticWebAssets.Manifest.cache
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\staticwebassets\WebApiModulo10.StaticWebAssets.xml
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiModulo10.styles.css
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.RazorTargetAssemblyInfo.cache
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.csproj.CopyComplete
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.dll
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.pdb
+C:\JOSE\NET\Udemy\WebApiModulo10\WebApiModulo10\obj\Debug\netcoreapp3.1\WebApiModulo10.genruntimeconfig.cache

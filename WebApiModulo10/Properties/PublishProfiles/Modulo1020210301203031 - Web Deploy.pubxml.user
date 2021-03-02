@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQI8d8n3iokmTq20Vgw3y4QAAAAACAAAAAAAQZgAAAAEAACAAAACAstG6UIZX5Wn5W7h2r/iaovKQGJgtWjYvaG02Lun4owAAAAAOgAAAAAIAACAAAACp/WCd8F9tyVHdhkMp/hoKtqBxfnDAkrfpGq+cz2n/UIAAAADtfImKz4f7r/z8ZqnPXRQj6teudtvpZmc83iIZ48jIOgxCwrk033cOx44UEERa39d1ykqeV+x5R9bYLRKy5cRgtcX2e9hdcefgGm2X2xDsh/t/+UzR2DwcFgnusPw2uWInpPm7oM4wRVoTkx+laNRV/H20wdZwXK9ouaLCMqvPikAAAAD5p72AOs/PAyg9KTLhzD8JVa/TMQSsEVrvxN2xqYBc6PkdBr8Lp1mdgGNjbXYwxnQ4pt2K6Xj8359llMT3OqnH</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebApiModulo10.Contexts.ApplicationDbContext">
+      <Value>Data Source=tcp:webapimodulo10db.database.windows.net,1433%3bInitial Catalog=WebApiModulo10_db%3bUser Id=jose%40webapimodulo10db%3bPassword=jparedes123.</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

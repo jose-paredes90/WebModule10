@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQI8d8n3iokmTq20Vgw3y4QAAAAACAAAAAAAQZgAAAAEAACAAAADiNrZH2Mz1zeYLO7+z2vZx8KRi9PZZ+mG5PQ4q9+49dQAAAAAOgAAAAAIAACAAAABo4i6WkwPOfWmWVi5MxQgpTZw2vc5rpGw5B71fJp7yyIAAAADddgfZoAd5CQFFe2Pje9PetddqHox6UUgluJolYDhnB8nfvCH2QYsy+vjr1txLnvMZnkVOC5di/wMP5xXWS8FB5UxMWqds/BRUBsrmE57vH56UlcKe6iFk0+4ThZHNkoL80FzioicQ8mq4bqA5L+eDzJVdiYV/AQiOAsFBY3+RZkAAAAC09EEdrFc0zICnVdF376IoN58X/zRypgK8m25iEdanTsZDICcYO79EjrwUpkcDMtCnWZ2v46OQDhA/C4KtOmKJ</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebApiModulo10.Contexts.ApplicationDbContext">
+      <Value>Data Source=tcp:aspnetcorestoredprocsdemo20210301120046dbserver.database.windows.net,1433%3bInitial Catalog=WebApiModulo10_db%3bUser Id=joseParedes%40aspnetcorestoredprocsdemo20210301120046dbserver%3bPassword=123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
